@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" modified="2024-05-14T08:53:56.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="fKpj-poTtwEWec9PpTDe" version="24.3.1" type="github">
+  <diagram name="第 1 页" id="EusxvPvZemd_dxM359jn">
+    <mxGraphModel dx="676" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;strokeColor=#C30303;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;endArrow=none;endFill=0;" edge="1" parent="1" source="UYPLhJCX02pVb3UMM9Lb-6" target="UYPLhJCX02pVb3UMM9Lb-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="240" />
+              <mxPoint x="130" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;strokeColor=#C30303;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UYPLhJCX02pVb3UMM9Lb-6" target="UYPLhJCX02pVb3UMM9Lb-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="240" />
+              <mxPoint x="130" y="213" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;strokeColor=#C30303;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UYPLhJCX02pVb3UMM9Lb-6" target="UYPLhJCX02pVb3UMM9Lb-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="240" />
+              <mxPoint x="130" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;strokeColor=#C30303;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UYPLhJCX02pVb3UMM9Lb-6" target="UYPLhJCX02pVb3UMM9Lb-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="240" />
+              <mxPoint x="130" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-6" value="&lt;font face=&quot;微软雅黑&quot;&gt;&lt;b&gt;阵列综合算法&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C30303;textDirection=vertical-lr;textShadow=0;strokeColor=none;strokeWidth=2;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;shadow=1;strokeColor=#C30303;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=none;" edge="1" parent="1" source="UYPLhJCX02pVb3UMM9Lb-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-7" value="&lt;font face=&quot;微软雅黑&quot;&gt;&lt;b&gt;解析算法&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C30303;textShadow=0;strokeColor=none;strokeWidth=2;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;shadow=1;strokeColor=#C30303;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=none;" edge="1" parent="1" source="UYPLhJCX02pVb3UMM9Lb-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-8" value="&lt;font face=&quot;微软雅黑&quot;&gt;&lt;b&gt;随机优化算法&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C30303;textShadow=0;strokeColor=none;strokeWidth=2;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="193" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-9" value="&lt;font face=&quot;微软雅黑&quot;&gt;&lt;b&gt;凸优化&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C30303;textShadow=0;strokeColor=none;strokeWidth=2;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="247" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;shadow=1;strokeColor=#C30303;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=none;" edge="1" parent="1" source="UYPLhJCX02pVb3UMM9Lb-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-11" value="&lt;font face=&quot;微软雅黑&quot;&gt;&lt;b&gt;其他算法&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C30303;textShadow=0;strokeColor=none;strokeWidth=2;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-25" value="切比雪夫综合、泰勒综合、密度递减方法" style="rounded=0;strokeColor=none;fillColor=none;align=left;textShadow=1;fontColor=#C30303;" vertex="1" parent="1">
+          <mxGeometry x="234" y="139" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-26" value="遗传算法、粒子群算法、差分进化、模拟退火算法" style="rounded=0;strokeColor=none;fillColor=none;align=left;textShadow=1;fontColor=#C30303;" vertex="1" parent="1">
+          <mxGeometry x="233" y="192" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UYPLhJCX02pVb3UMM9Lb-28" value="数值迭代、矩阵束方法、人工智能" style="rounded=0;strokeColor=none;fillColor=none;align=left;textShadow=1;fontColor=#C30303;" vertex="1" parent="1">
+          <mxGeometry x="233" y="299" width="220" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
